@@ -1,0 +1,24 @@
+# ninja log v5
+905	998	7646932537909265	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-build	e2e80b379e3959fa
+8	119	7646932529116751	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-mkdir	92492703bda20fe
+8	119	7646932529116751	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-mkdir	92492703bda20fe
+470	574	7646932533664424	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-update	bf3e3288bfd5e502
+120	470	7646932532653760	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-download	fb1454594462eea4
+120	470	7646932532653760	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-download	fb1454594462eea4
+574	674	7646932534683336	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-patch	b200e1b1f80b718a
+574	674	7646932534683336	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-patch	b200e1b1f80b718a
+470	574	7646932533664424	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-update	bf3e3288bfd5e502
+674	799	7646932535898320	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-copyfile	674f85823913800f
+674	799	7646932535898320	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-src/stb_image.h	674f85823913800f
+674	799	7646932535898320	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-copyfile	674f85823913800f
+799	905	7646932536985559	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-configure	9b02f88f29aba238
+799	905	7646932536985559	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-configure	9b02f88f29aba238
+905	998	7646932537909265	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-build	e2e80b379e3959fa
+998	1084	7646932538780084	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-install	905012ac0145ab03
+998	1084	7646932538780084	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-install	905012ac0145ab03
+1084	1177	7646932539698780	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-test	82111a1f8dad933
+1084	1177	7646932539698780	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-test	82111a1f8dad933
+1177	1314	7646932541067625	CMakeFiles/stb_image_h-populate-complete	b65f4b8b5a487007
+1177	1314	7646932541067625	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-done	b65f4b8b5a487007
+1177	1314	7646932541067625	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/CMakeFiles/stb_image_h-populate-complete	b65f4b8b5a487007
+1177	1314	7646932541067625	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-done	b65f4b8b5a487007

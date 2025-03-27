@@ -1,0 +1,15 @@
+# Target labels
+ stb_image_h-populate
+# Source files and their labels
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/CMakeFiles/stb_image_h-populate
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/CMakeFiles/stb_image_h-populate.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/CMakeFiles/stb_image_h-populate-complete.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-build.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-configure.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-copyfile.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-download.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-install.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-mkdir.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-patch.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-test.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-update.rule

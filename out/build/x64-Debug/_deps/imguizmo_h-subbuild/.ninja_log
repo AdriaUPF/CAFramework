@@ -1,0 +1,24 @@
+# ninja log v5
+1125	1258	7646932486077595	CMakeFiles/imguizmo_h-populate-complete	18cbd421b40f6310
+3	113	7646932474630271	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-mkdir	c4bbfe8ff2cd1af0
+3	113	7646932474630271	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-mkdir	c4bbfe8ff2cd1af0
+116	421	7646932477699240	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-download	b7ab4391450676f5
+116	421	7646932477699240	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-download	b7ab4391450676f5
+421	497	7646932478481750	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-update	74c7fb57c7669fbf
+498	580	7646932479292699	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-patch	8fb64f098c4d97fe
+421	497	7646932478481750	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-update	74c7fb57c7669fbf
+498	580	7646932479292699	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-patch	8fb64f098c4d97fe
+1018	1125	7646932484724835	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-test	fd5f272d419e3e04
+580	728	7646932480775734	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-copyfile	b840c549ca440e22
+580	728	7646932480775734	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-src/ImGuizmo.h	b840c549ca440e22
+580	728	7646932480775734	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-copyfile	b840c549ca440e22
+728	822	7646932481722452	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-configure	c57917e7a824f37d
+728	822	7646932481722452	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-configure	c57917e7a824f37d
+924	1018	7646932483670125	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-install	c93bee31fdacef0f
+1125	1258	7646932486077595	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/CMakeFiles/imguizmo_h-populate-complete	18cbd421b40f6310
+822	923	7646932482735055	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-build	18f60f50dbe98163
+822	923	7646932482735055	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-build	18f60f50dbe98163
+924	1018	7646932483670125	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-install	c93bee31fdacef0f
+1018	1125	7646932484724835	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-test	fd5f272d419e3e04
+1125	1258	7646932486077595	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-done	18cbd421b40f6310
+1125	1258	7646932486077595	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-done	18cbd421b40f6310

@@ -1,0 +1,15 @@
+# Target labels
+ cgltf_h-populate
+# Source files and their labels
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/CMakeFiles/cgltf_h-populate
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/CMakeFiles/cgltf_h-populate.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/CMakeFiles/cgltf_h-populate-complete.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-build.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-configure.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-copyfile.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-download.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-install.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-mkdir.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-patch.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-test.rule
+C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-update.rule

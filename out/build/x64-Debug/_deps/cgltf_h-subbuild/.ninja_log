@@ -1,0 +1,24 @@
+# ninja log v5
+1009	1117	7646932520564809	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-test	81e31e2d4e85d82e
+6	102	7646932510429472	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-mkdir	dd0935ef028fdaf7
+1117	1240	7646932521793782	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/CMakeFiles/cgltf_h-populate-complete	4f07f9e6b26f694
+486	599	7646932515374113	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-patch	c120832f5a484d16
+6	102	7646932510429472	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-mkdir	dd0935ef028fdaf7
+390	486	7646932514256466	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-update	33800394ee684af4
+1117	1240	7646932521793782	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-done	4f07f9e6b26f694
+103	389	7646932513309224	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-download	2bdd7d82c1a92cb
+103	389	7646932513309224	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-download	2bdd7d82c1a92cb
+599	710	7646932516506447	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-src/cgltf.h	d29d67c2383bdb55
+390	486	7646932514256466	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-update	33800394ee684af4
+486	599	7646932515374113	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-patch	c120832f5a484d16
+599	710	7646932516506447	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-copyfile	d29d67c2383bdb55
+599	710	7646932516506447	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-copyfile	d29d67c2383bdb55
+711	802	7646932517429507	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-configure	3ba7944800fcbf5c
+711	802	7646932517429507	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-configure	3ba7944800fcbf5c
+907	1009	7646932519497560	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-install	7f6157484600a87e
+802	907	7646932518459260	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-build	c5676b526193cf90
+802	907	7646932518459260	C:/Users/Adria/OneDrive/Documentos/GitHub/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-build	c5676b526193cf90
+907	1009	7646932519497560	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-install	7f6157484600a87e
+1009	1117	7646932520564809	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-test	81e31e2d4e85d82e
+1117	1240	7646932521793782	CMakeFiles/cgltf_h-populate-complete	4f07f9e6b26f694
+1117	1240	7646932521793782	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-done	4f07f9e6b26f694
