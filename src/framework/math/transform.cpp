@@ -43,9 +43,22 @@ Transform mix(const Transform& a, const Transform& b, float t)
 Transform mat4_to_transform(const mat4& m)
 {
 	// TODO
-	// ..
+	Transform transform;
+	transform.position = vec3(m.c3r0,m.c3r1,m.c3r2);
+	quat rot;
+	rot.w = sqrt(1 + m.c0r0 + m.c1r1 + m.c2r2) / 2;
+	rot.x = (m.c1r2 - m.c2r1) / (4 * rot.w);
+	rot.y = (m.c0r2 - m.c0r2) / (4 * rot.w);
+	rot.z = (m.c0r1 - m.c1r0) / (4 * rot.w);
+	rot.scalar = rot.w;
+	rot.vector = vec3(rot.x, rot.y, rot.z);
+	transform.rotation = rot;
 
-	return Transform();
+	
+
+
+
+	return transform;
 }
 
 // Converts a transform into a mat4

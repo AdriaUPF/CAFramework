@@ -272,9 +272,28 @@ quat look_rotation(const vec3& direction, const vec3& up)
 mat4 quat_to_mat4(const quat& q)
 {
 	// TODO
-	// ..
+	float w = q.w, x = q.x, y = q.y, z = q.z;
 
-	return mat4();
+	mat4 mat;
+	
+
+	mat.c0r0 = 1 - 2 * (y * y + z * z);
+	mat.c1r0 = 2 * (x * y - w * z);
+	mat.c2r0 = 2 * (x * z + w * y);
+
+	mat.c0r1 = 2 * (x * y + w * z);
+	mat.c1r1 = 1 - 2 * (x * x + z * z);
+	mat.c2r1 = 2 * (y * z - w * x);
+
+	mat.c0r2 = 2 * (x * z - w * y);
+	mat.c1r2 = 2 * (y * z + w * x);
+	mat.c2r2 = 1 - 2 * (x * x + y * y);
+
+	mat.c3r0 = 0; mat.c3r1 = 0; mat.c3r2 = 0; mat.c3r3 = 1;
+	mat.c0r3 = 0; mat.c1r3 = 0; mat.c2r3 = 0;
+
+
+	return mat;
 }
 
 quat mat4_to_quat(const mat4& m)
