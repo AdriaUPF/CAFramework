@@ -212,12 +212,12 @@
 			"id" : "imgui::@6890427a1f51a3e7e1df"
 		},
 		{
-			"backtrace" : 2,
-			"id" : "glfw::@7d8f67159c48f691a52d"
-		},
-		{
 			"backtrace" : 3,
 			"id" : "libglew_static::@c91b4f570a1fcddf2341"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "glfw::@7d8f67159c48f691a52d"
 		}
 	],
 	"id" : "ComputerAnimation::@6890427a1f51a3e7e1df",

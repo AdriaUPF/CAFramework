@@ -149,11 +149,11 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "glfw::@7d8f67159c48f691a52d"
+			"id" : "libglew_static::@c91b4f570a1fcddf2341"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "libglew_static::@c91b4f570a1fcddf2341"
+			"id" : "glfw::@7d8f67159c48f691a52d"
 		}
 	],
 	"folder" : 

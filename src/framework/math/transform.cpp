@@ -14,6 +14,18 @@ Transform combine(const Transform& t1, const Transform& t2)
 	return out;
 }
 
+mat4 initialize(mat4& m) {
+	m.c0r0 = 1;
+	m.c1r1 = 1;
+	m.c2r2 = 1;
+	m.c3r3 = 1;
+	m.c0r1 = 0; m.c0r2 = 0; m.c0r3 = 0; // Column 0
+	m.c1r0 = 0; m.c1r2 = 0; m.c1r3 = 0; // Column 1
+	m.c2r0 = 0; m.c2r1 = 0; m.c2r3 = 0; // Column 2
+	m.c3r0 = 0; m.c3r1 = 0; m.c3r2 = 0; // Column 3
+	return m;
+}
+
 Transform inverse(const Transform& t)
 {
 	Transform inv;
@@ -42,8 +54,30 @@ Transform mix(const Transform& a, const Transform& b, float t)
 // M = SRT, ignore the translation: M = SR -> invert R to isolate S
 Transform mat4_to_transform(const mat4& m)
 {
-	// TODO
 	Transform transform;
+	//Second TODO
+	mat4 rotm;
+	rotm.c0r0 = m.c0r0;
+	rotm.c1r0 = m.c1r0;
+	rotm.c0r1 = m.c0r1;
+	rotm.c1r1 = m.c1r1;
+	rotm.c2r1 = m.c2r1;
+	rotm.c2r2 = m.c2r2;
+	rotm.c0r2 = m.c0r2;
+	rotm.c1r2 = m.c1r2;
+	rotm.c2r0 = m.c2r0;
+	rotm.c3r0 = 0;
+	rotm.c3r1 = 0;
+	rotm.c3r2 = 0;
+	rotm.c3r3 = 1;
+	rotm.c0r3 = 0;
+	rotm.c1r3 = 0;
+	rotm.c2r3 = 0;
+
+	invert(rotm);
+	mat4 escale = m * rotm;
+
+	// TODO
 	transform.position = vec3(m.c3r0,m.c3r1,m.c3r2);
 	quat rot;
 	rot.w = sqrt(1 + m.c0r0 + m.c1r1 + m.c2r2) / 2;
@@ -53,10 +87,8 @@ Transform mat4_to_transform(const mat4& m)
 	rot.scalar = rot.w;
 	rot.vector = vec3(rot.x, rot.y, rot.z);
 	transform.rotation = rot;
-
+	transform.scale = vec3(escale.c0r0, escale.c1r1, escale.c2r2);
 	
-
-
 
 	return transform;
 }
@@ -65,7 +97,17 @@ Transform mat4_to_transform(const mat4& m)
 mat4 transform_to_mat4(const Transform& t)
 {
 	// TODO
-	// ..
+	//following M = SRT
+
+	mat4 tra;
+	mat4 rot;
+	mat4 scale;
+	initialize(tra);
+	initialize(rot);
+	initialize(scale);
+	tra.c3r0 = t.position.x;
+	tra.c3r1 = t.position.y;
+	tra.c3r2 = t.position.z;
 
 	return mat4();
 }
